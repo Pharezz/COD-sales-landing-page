@@ -558,7 +558,7 @@ const Home = () => {
               </div>
               <a
                 href="#hero"
-                className="bg-primary text-white p-2 rounded-full w-14 h-14 flex justify-center items-center ml-auto"
+                className="bg-primary text-white p-2 rounded-full w-14  h-14 flex justify-center items-center ml-auto"
               >
                 <ArrowUpCircle size={32} />
               </a>
